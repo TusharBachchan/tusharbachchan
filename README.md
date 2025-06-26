@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Full Stack developer from India!</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Web Scraping and Dta Analysis**
 
-- 💬 Ask me about **Javascript, React and Web Development**
+- 💬 Ask me about **Javascript, Java, Python, React and Web Development**
 
 - 📫 How to reach me **tusharbachchan@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NqM1TYCl6t4Y25QE4VEgUqlvxGCembE-/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1_mqcyWYFC34prXvf7F51iaxcIYMN1rgA%2Fview%3Fusp%3Ddrive_link&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NzY1MWZjYTItNTA5YS00YjQzLWFiZmEtNWUwMTljMTQ2NmYxXzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bg0Pu%2BR6ySieSuVseBa%2BzsA%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
