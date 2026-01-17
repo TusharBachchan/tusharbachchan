@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Full Stack developer from India!</h3>
 
-- 🌱 I’m currently learning **Web Scraping and Dta Analysis**
+- 🌱 I’m currently learning **Web Scraping and Data Analysis**
 
 - 💬 Ask me about **Javascript, Java, Python, React and Web Development**
 
